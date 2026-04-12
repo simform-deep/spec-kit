@@ -1,0 +1,31 @@
+{
+  "hash": "69b936ef",
+  "configHash": "2f8e8a6d",
+  "lockfileHash": "827a8611",
+  "browserHash": "08bac2dc",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1ae96137",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "3fb59025",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f1a0be23",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-RPNA3AIT": {
+      "file": "chunk-RPNA3AIT.js"
+    }
+  }
+}
