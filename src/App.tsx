@@ -34,6 +34,10 @@ export function App() {
             guide.
           </div>
           <div> &gt; winget install --id=astral-sh.uv -e - Window</div>
+          <div className="font-semibold">Install packages.</div>
+          <div> &gt; pnpm install</div>
+          <div className="font-semibold">Run server.</div>
+          <div> &gt; pnpm run dev</div>
         </div>
         <div>
           <div className="font-semibold">
